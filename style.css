@@ -1,0 +1,47 @@
+*{
+    background-color: rgb(232, 126, 11);
+}
+.head{
+  color:darkblue;
+}
+span {
+    background-color: lime;
+    color: red;
+}
+h2{
+    
+    background-color: lime;
+}
+#para{
+    color: green;
+ 
+}
+p span{
+    color: black;
+    background-color: rgb(232, 126, 11);
+    font-size: large;
+}
+h3{
+    color: black;
+}
+p{
+    color: white;
+}
+li{
+    color: white;
+}
+ul li:first-child mark{
+    background-color: yellow;
+}
+ul li:last-child mark{
+    background-color: blue;
+}
+ ol li:nth-child(2){
+    color: blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
+ol li{
+    color: black;
+}
